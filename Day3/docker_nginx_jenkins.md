@@ -1,4 +1,4 @@
-# 🚀 Day 3 – Docker, Nginx & Jenkins Hands-on
+# 🚀 Day 3 – Docker, Nginx & Jenkins Hands--on
 
 ![Docker](https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge&logo=docker)
 ![Nginx](https://img.shields.io/badge/Nginx-WebServer-green?style=for-the-badge&logo=nginx)
